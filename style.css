@@ -1,0 +1,44 @@
+/* .goodbye-class {
+  font-size: 1.2em;
+  background-color: goldenrod;
+  color: purple;
+}
+div {
+  background-color: red;
+}
+#my-id {
+  color: gainsboro;
+} */
+nav {
+  background-color: #000;
+  height: 10vh;
+  padding: 15px 30px;
+}
+
+.nav-boxes {
+  background-color: #fff;
+  height: 100%;
+  display: inline-block;
+}
+.left-nav-box {
+  width: 15%;
+}
+.right-nav-box {
+  width: 30%;
+  float: right;
+}
+main {
+  min-height: 90vh;
+  background-color: lightgray;
+  padding-top: 35px;
+}
+.container {
+  margin: auto;
+  background-color: black;
+  width: 60%;
+  height: 65vh;
+}
+p {
+  color: white;
+  text-align: center;
+}
